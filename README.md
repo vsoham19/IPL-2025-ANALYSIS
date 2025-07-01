@@ -43,6 +43,6 @@ To enable rich, cross-sectional analysis, I established relationships among key 
 Contributing & Collaboration
 I welcome feedback, questions, and collaboration:
 - If you’d like to extend the analysis, feel free to fork the repo and submit a pull request
-- For joint projects or deeper dives, open an issue or connect via email atvsoham19@gmail.com
+- For joint projects or deeper dives, open an issue or connect via email at vsoham19@gmail.com
 - Issues and feature requests are tracked in the Issues tab—let me know what you need
 
