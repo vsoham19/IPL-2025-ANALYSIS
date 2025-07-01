@@ -13,6 +13,7 @@ This project analyzes the IPL 2025 season using Python and Power BI to extract m
 - Power BI (DAX, interactive dashboards)
 - Jupyter Notebook
 
+
 ## Data Relationships
 To enable rich, cross-sectional analysis, I established relationships among key columns (such as player names, teams, and match IDs) across all datasets. This interconnected data model allowed for seamless exploration and deeper insights
 
@@ -39,4 +40,9 @@ To enable rich, cross-sectional analysis, I established relationships among key 
 2. Open the Jupyter Notebook for Python analysis
 3. Open the Power BI dashboard for interactive exploration
 
-Feel free to learn and collaborate.
+Contributing & Collaboration
+I welcome feedback, questions, and collaboration:
+- If you’d like to extend the analysis, feel free to fork the repo and submit a pull request
+- For joint projects or deeper dives, open an issue or connect via email at your.email@example.com
+- Issues and feature requests are tracked in the Issues tab—let me know what you need
+
